@@ -23,9 +23,9 @@
 </a>
 
 <p align="center">  
-<a href="https://github.com/siamor9724/PumpKim_unity">
+<a href="https://github.com/siamor9724/BasketBallCommunityPjt">
 <p align="center"> 
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=siamor9724&repo=PumpKim_unity&theme=nord" alt="siamor9724"
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=siamor9724&repo=BasketBallCommunityPjt&theme=nord" alt="siamor9724"
 </a>
 
 <p align="center">  
