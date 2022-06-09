@@ -8,8 +8,10 @@
   </a>
 </p>
 <p align='center'> Skills </p>
+
 <p align="center">
 <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-ar21.svg" alt="" />
+    <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="" />
   </p>
 <p align="center"> 
     <img src="https://github-readme-stats.vercel.app/api?username=siamor9724&show_icons=true&theme=nord&count_private=true&include_all_commits=true" alt="siamor9724" width= "80%"/>
