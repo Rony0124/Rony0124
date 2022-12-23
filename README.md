@@ -4,7 +4,7 @@
     <img src="https://img.shields.io/badge/DEV_BLOG%20-%23F7DF1E.svg?&style=for-the-badge&&logoColor=white" width="10%"/>
   </a>
 </p>
-<p align='center'> Skills </p>
+<p> Skills </p>
 
 <p align="center">
 <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-ar21.svg" alt="" />
