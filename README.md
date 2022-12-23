@@ -29,7 +29,3 @@
 
 <p align="center">  
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=footer&text=Thanks%20for%20watching&fontSize=40)
-  </p>
-  
- 
