@@ -1,7 +1,4 @@
 
-<p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Chan%20KIM&fontSize=90&fontAlignY=38&desc=Welcome%20to%20my channel&descSize=30" />
-</p>
 <p align='center'>
   <a href="https://note4iffydog.tistory.com/">
     <img src="https://img.shields.io/badge/DEV_BLOG%20-%23F7DF1E.svg?&style=for-the-badge&&logoColor=white" width="10%"/>
