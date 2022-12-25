@@ -23,8 +23,7 @@
   <img src="https://img.shields.io/badge/Spring-FFFFFF?style=flat-square&logo=Spring&logoColor=green"/>
 </p>
 <p>
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C#-0095D5?style=flat-square&logo=C Sharp&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/C++-3178C6?style=flat-square&logo=C++&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/>
 </p>
