@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/Spring-FFFFFF?style=flat-square&logo=Spring&logoColor=green"/>
 </p>
 <p>
-  <img src="https://img.shields.io/badge/C#-239120?style=flat-square&logo=Csharp&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=Csharp&logoColor=white"/> 
   <img src="https://img.shields.io/badge/C++-3178C6?style=flat-square&logo=C++&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 </p>
