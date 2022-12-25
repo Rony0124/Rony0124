@@ -5,7 +5,7 @@
 
 <p>
   &nbsp; Hi there! 👋<br/>
-  I'm <b>Unity developer</b> <br/>
+  I'm <b>Unity developer </b> <br/>
   skilled in API and Unity Engine.<br/>
   I am currently working as an app-developer using Unity at Maromav.<br/>
   I have been developing 3D Simulations, service contents and etc, coding-education related, trough unity .<br/><br/>
