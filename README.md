@@ -4,7 +4,8 @@
 </p>
 
 <p>
-  &nbsp; Hi there! 👋I'm <b>Unity developer</b> <br/>
+  &nbsp; Hi there! <br/>
+  👋I'm <b>Unity developer</b> <br/>
   skilled in API and Unity Engine.<br/>
   I am currently working as an app-developer using Unity at Maromav.<br/>
   I have been developing 3D Simulations, service contents and etc, coding-education related, trough unity .<br/><br/>
@@ -18,13 +19,8 @@
 ### 💪 Skills
 #### Platforms & Languages
 <p>
-  
   <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
-  <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=React&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-FFFFFF?style=flat-square&logo=Spring&logoColor=green"/>
 </p>
 <p>
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/> 
