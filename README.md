@@ -4,8 +4,8 @@
 </p>
 
 <p>
-  &nbsp; Hi there! <br/>
-  👋I'm <b>Unity developer</b> <br/>
+  &nbsp; Hi there! 👋<br/>
+  I'm <b>Unity developer</b> <br/>
   skilled in API and Unity Engine.<br/>
   I am currently working as an app-developer using Unity at Maromav.<br/>
   I have been developing 3D Simulations, service contents and etc, coding-education related, trough unity .<br/><br/>
@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/Spring-FFFFFF?style=flat-square&logo=Spring&logoColor=green"/>
 </p>
 <p>
-  <img src="https://img.shields.io/badge/C#-0095D5?style=flat-square&logo=C Sharp&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/C#-0095D5?style=flat-square&logo=CSharp&logoColor=white"/> 
   <img src="https://img.shields.io/badge/C++-3178C6?style=flat-square&logo=C++&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 </p>
