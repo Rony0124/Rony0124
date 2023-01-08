@@ -3,6 +3,8 @@
   <a href="mailto:siamore9724@gmail.com" target="_blank"><img src="https://img.shields.io/badge/siamore9724@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
+Blog : https://note4iffydog.tistory.com/
+
 <p>
   &nbsp; Hi there! 👋<br/>
   I'm <b>Unity developer </b> <br/>
