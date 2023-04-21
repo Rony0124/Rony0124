@@ -13,7 +13,6 @@ Blog : https://note4iffydog.tistory.com/
   I have been developing 3D Simulations, service contents and etc, coding-education related, trough unity .<br/><br/>
   I have published 2D rogue-like mobile game on google play market with unity. <br/>
   I do also have an experience in creating basketball web community using Spring framework. <br/>
-  Have it your way, that's how you know what is ahead of you.
    <br/><br/>
 </p>
 
